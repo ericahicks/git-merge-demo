@@ -1,4 +1,4 @@
-# Compiled class file
+x`# Compiled class file
 *.class
 
 # Log file
@@ -86,3 +86,4 @@ local.properties
 
 .settings
 .classpath
+.DS_Store

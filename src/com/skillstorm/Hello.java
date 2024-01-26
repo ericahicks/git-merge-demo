@@ -20,7 +20,7 @@ public class Hello {
 	}
 	
 	private static String abdelnasser() {
-		return "Hello, Nasser was here!";
+		return "Hello, Nasser was here TWICE!";
 	}
 	
 	private static String carlos() {
