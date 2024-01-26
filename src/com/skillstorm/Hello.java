@@ -32,8 +32,8 @@ public class Hello {
 		return "";
 	}
 
-	private static String josh() {
-		return "Hey, it's Josh. Hope I don't cause any merge conflicts >:)";
+	private static void josh() {
+		System.out.println("Hey, it's Josh. Hope I don't cause any merge conflicts >:)");
 	}
 
 	private static String matt() {
