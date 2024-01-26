@@ -12,9 +12,10 @@ public class Hello {
 		// TODO implement the method named after you 
 		// Have the method return a String containing a greeting message
 		// Call your method without overwriting anyone else's method call
-		erica();
-		sam();
-		rod();
+		System.out.println(erica());
+		System.out.println(abdelnasser());
+		System.out.println(rod());
+		System.out.println(sam());
 	}
 	
 	private static String erica() {
@@ -23,7 +24,7 @@ public class Hello {
 	}
 	
 	private static String abdelnasser() {
-		return "Hello, Nasser was here!";
+		return "Hello, Nasser was here TWICE!";
 	}
 	
 	private static String carlos() {
