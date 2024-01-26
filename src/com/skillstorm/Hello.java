@@ -13,6 +13,7 @@ public class Hello {
 		// Have the method return a String containing a greeting message
 		// Call your method without overwriting anyone else's method call
 		erica();
+		rod();
 	}
 	
 	private static String erica() {
@@ -41,7 +42,7 @@ public class Hello {
 	}
 	
 	private static String rod() {
-		return "";
+		return "Konnichiwa.  Watashiwa Rod desu.  Dozo yoroshiku!";
 	}
 	
 	private static String sam() {
