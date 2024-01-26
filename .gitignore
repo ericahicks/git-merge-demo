@@ -87,3 +87,5 @@ local.properties
 .settings
 .classpath
 .DS_Store
+.idea/
+as.iml

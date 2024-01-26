@@ -12,7 +12,8 @@ public class Hello {
 		// TODO implement the method named after you 
 		// Have the method return a String containing a greeting message
 		// Call your method without overwriting anyone else's method call
-		erica();
+		System.out.println(erica());
+		System.out.println(abdelnasser());
 	}
 	
 	private static String erica() {
