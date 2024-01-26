@@ -13,6 +13,7 @@ public class Hello {
 		// Have the method return a String containing a greeting message
 		// Call your method without overwriting anyone else's method call
 		erica();
+		sam();
 	}
 	
 	private static String erica() {
@@ -44,7 +45,7 @@ public class Hello {
 	}
 	
 	private static String sam() {
-		return "";
+		return "Hello, this is Sam. How are you?";
 	}
 	
 	private static String sean() {
