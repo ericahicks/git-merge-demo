@@ -7,46 +7,47 @@ package com.skillstorm;
  * The purpose of this code is to practice git branching, git merging, and Pull Requests. 
  */
 public class Hello {
-	
+
 	public static void main(String[] args) {
-		// TODO implement the method named after you 
+		// TODO implement the method named after you
 		// Have the method return a String containing a greeting message
 		// Call your method without overwriting anyone else's method call
 		erica();
+		josh();
 	}
-	
+
 	private static String erica() {
 		return "Hello! This is Erica.";
 	}
-	
+
 	private static String abdelnasser() {
 		return "";
 	}
-	
+
 	private static String carlos() {
 		return "";
 	}
-	
+
 	private static String hunter() {
 		return "";
 	}
-	
+
 	private static String josh() {
-		return "";
+		return "Hey, it's Josh. Hope I don't cause any merge conflicts >:)";
 	}
-	
+
 	private static String matt() {
 		return "";
 	}
-	
+
 	private static String rod() {
 		return "";
 	}
-	
+
 	private static String sam() {
 		return "";
 	}
-	
+
 	private static String sean() {
 		return "";
 	}
