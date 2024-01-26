@@ -49,7 +49,7 @@ public class Hello {
 	}
 	
 	private static String sean() {
-		return "";
+		return "Fun Fact: Collections.sort() uses Quicksort for collections of primitives.";
 	}
 
 }
