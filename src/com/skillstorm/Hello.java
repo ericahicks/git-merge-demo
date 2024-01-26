@@ -16,7 +16,8 @@ public class Hello {
 	}
 	
 	private static String erica() {
-		return "Hello! This is Erica.";
+		return "Hello! This is Erica."
+				+ " How are you?";
 	}
 	
 	private static String abdelnasser() {
