@@ -1,4 +1,5 @@
-# git-merge-demo
+# Git Merge Demo Project
+
 This project is for practicing git branching, git merging, and pull requests.
 
 ## Contributing Code
