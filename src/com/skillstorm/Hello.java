@@ -14,10 +14,13 @@ public class Hello {
 		// Call your method without overwriting anyone else's method call
 		System.out.println(erica());
 		System.out.println(abdelnasser());
+		System.out.println(rod());
+		System.out.println(sam());
 	}
 	
 	private static String erica() {
-		return "Hello! This is Erica.";
+		return "Hello! This is Erica."
+				+ " How are you?";
 	}
 	
 	private static String abdelnasser() {
@@ -41,15 +44,15 @@ public class Hello {
 	}
 	
 	private static String rod() {
-		return "";
+		return "Konnichiwa.  Watashiwa Rod desu.  Dozo yoroshiku!";
 	}
 	
 	private static String sam() {
-		return "";
+		return "Hello, this is Sam. How are you?";
 	}
 	
 	private static String sean() {
-		return "";
+		return "Fun Fact: Collections.sort() uses Quicksort for collections of primitives.";
 	}
 
 }
