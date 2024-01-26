@@ -12,7 +12,7 @@ public class Hello {
 		// TODO implement the method named after you 
 		// Have the method return a String containing a greeting message
 		// Call your method without overwriting anyone else's method call
-		erica();
+		matt();
 	}
 	
 	private static String erica() {
@@ -36,7 +36,7 @@ public class Hello {
 	}
 	
 	private static String matt() {
-		return "";
+		return "matt";
 	}
 	
 	private static String rod() {
